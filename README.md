@@ -1,5 +1,7 @@
 # PHPUnit_Printer
 
+Author: [Fabrizio Branca](https://twitter.com/fbrnc)
+
 An additional printer for PHPUnit that displays the test progress like this:
 
 ```
