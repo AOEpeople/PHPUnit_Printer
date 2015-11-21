@@ -1,0 +1,13 @@
+{
+  "name": "aoepeople/phpunit_printer",
+  "description": "Vault",
+  "authors": [
+    {
+      "name": "Fabrizio Branca",
+      "email": "firstname.lastname@aoe.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
